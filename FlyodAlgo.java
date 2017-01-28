@@ -1,5 +1,5 @@
 /*
- * Trying to determine whether a list contains any loop or not!
+ * Trying to determine whether a single linked list contains any loop or not!.
  * -----<__>
  */
 public class FlyodAlgo {
